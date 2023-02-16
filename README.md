@@ -2,7 +2,7 @@
 Tienes orientaciones algorítmicas en el curso moodle
 ## Clonar el proyecto
 A tu gusto pero una forma rápida es:
-- Hacer fork a este proyecto. Al hacer un fork generas una copia tuya proyecto de este proyecto.
+- Hacer fork a este proyecto. Al hacer un fork generas una copia de este proyecto. Esa copia pasa a ser un proyecto totalmente privado tuyo.
 
 
 
