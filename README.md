@@ -1,4 +1,5 @@
 # Busca minas con dos capas
+tienes orientaciones algorítmicas en el curso moodle
 
 ## Se pide:
 - Nombre de proyecto: BuscaMinas
