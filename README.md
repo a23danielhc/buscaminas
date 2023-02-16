@@ -3,7 +3,7 @@ Tienes orientaciones algorítmicas en el curso moodle
 
 ## Se pide:
 - Nombre de proyecto: BuscaMinas
-- Separar el interface de usuario de la lógica del juego.  Habrá dos paquetes. Uno se llamará principal y contiene la clase InterfaceConsola que contiene el main() . Otro se llamará buscaminas y contendrá la clase BuscaMinas que controlan la lógica del juego. 
+- Separar el interface de usuario de la lógica del juego.  Habrá dos paquetes. Uno se llamará principal y contiene la clase InterfaceConsola que contiene el main() . El otro se llamará buscaminas y contendrá la clase BuscaMinas que controlan la lógica del juego. 
 
 ![image.png](./image.png)
 
