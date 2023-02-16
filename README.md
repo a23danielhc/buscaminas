@@ -4,7 +4,7 @@ Tienes orientaciones algorítmicas en el curso moodle
 A tu gusto pero una forma rápida es:
 - Hacer fork a este proyecto. Al hacer un fork generas una copia de este proyecto. Esa copia pasa a ser un proyecto totalmente privado tuyo.
 
-
+![image-1.png](./image-1.png)
 
 
 
