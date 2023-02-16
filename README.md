@@ -10,6 +10,7 @@ A tu gusto pero una forma rápida es:
 
 - Clonar tu proyecto en el IDE (en visual code es prácticamente inmediato)
 
+![image-2.png](./image-2.png)
 
 
 ## Se pide:
