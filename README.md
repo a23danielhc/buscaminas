@@ -1,6 +1,9 @@
 # Busca minas con dos capas
 Tienes orientaciones algorítmicas en el curso moodle
-
+## clonar el proyecto
+A tu gusto pero una forma rápida es:
+1- Hacer fork a este proyecto. Al hacer un fork generas una copia tuya proyecto de este proyecto.
+2.- Clonar tu proyecto en el IDE (en visual code es prácticamente inmediato)
 ## Se pide:
 - Nombre de proyecto: BuscaMinas
 - Separar el interface de usuario de la lógica del juego.  Habrá dos paquetes. Uno se llamará principal y contiene la clase InterfaceConsola que contiene el main() . El otro se llamará buscaminas y contendrá la clase BuscaMinas que controlan la lógica del juego. 
