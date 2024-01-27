@@ -1,17 +1,5 @@
 # Busca minas con dos capas
-Tienes orientaciones algorítmicas en el curso moodle
-## Clonar el proyecto
-A tu gusto pero una forma rápida es:
-- Hacer fork a este proyecto. Al hacer un fork generas una copia de este proyecto. Esa copia pasa a ser un proyecto totalmente privado tuyo.
-
-![image-1.png](./image-1.png)
-
-
-
-- Clonar tu proyecto en el IDE (en visual code es prácticamente inmediato)
-
-![image-4.png](./image-4.png)
-
+Tienes orientaciones algorítmicas en fichero orientaciones.md 
 
 ## Se pide:
 - Nombre de proyecto: BuscaMinas
@@ -20,10 +8,7 @@ A tu gusto pero una forma rápida es:
 ![image.png](./image.png)
 
 
-
-
-
 - En la clase BuscaMinas todo private excepto lo que se requiera expresamente public. 
 - Hay que cumplir en la clase BuscaMinas el principio de ocultación tanto para tipos primitivos como para referencias.
 - Generar javadoc para la clase BuscaMinas de forma que leyendo la ayuda de los métodos públicos otro programador que quiera hacer otra Interface, pueda manejar tu clase sin necesidad de leer el código java de tu clase. Esfuérzate en diseñar una parte pública compresible para otros. Recuerda que casi siempre "se escribe el código para otros".
-- Generar jar 
+- El proyecto, además de por supuesto el código fuente, contiene  también un jar ejecutable 
