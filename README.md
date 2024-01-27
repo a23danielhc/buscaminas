@@ -1,5 +1,5 @@
 # Busca minas con dos capas
-Tienes orientaciones algorítmicas en fichero orientaciones.md [orientaciones.md](orientaciones.md)
+Tienes orientaciones algorítmicas en fichero [orientaciones.md](orientaciones.md)
 
 ## Se pide:
 - Nombre de proyecto: BuscaMinas
