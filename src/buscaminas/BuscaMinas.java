@@ -2,8 +2,8 @@ package buscaminas;
 
 public class BuscaMinas {
 
-    String[][] tableroJugador = new String[10][10];
-    String[][] tableroDescubierto = new String[10][10];
+    private String[][] tableroJugador = new String[10][10];
+    private String[][] tableroDescubierto = new String[10][10];
 
     public BuscaMinas(){
         generarTableroDescubierto();
@@ -55,10 +55,6 @@ public class BuscaMinas {
 
     public String[][] getTableroJugador(){
         return tableroJugador;
-    }
-
-    public String[][] getTableroDescubierto(){
-        return tableroDescubierto;
     }
 
     public boolean descubrirCasillas(int fila, int columna){

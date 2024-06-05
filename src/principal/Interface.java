@@ -4,10 +4,10 @@ import java.util.Scanner;
 import buscaminas.BuscaMinas;
 
 public class Interface {
-    BuscaMinas tablero;
-    Scanner sc = new Scanner(System.in);
+    private BuscaMinas tablero;
+    private Scanner sc = new Scanner(System.in);
 
-    Interface(){
+    private Interface(){
         tablero = new BuscaMinas();
         turnoJugador();
     }
@@ -17,19 +17,6 @@ public class Interface {
         for (int i = 0; i < TableroJugador.length; i++){
             for (int j = 0; j < TableroJugador[i].length; j++){
                 System.out.print(TableroJugador[i][j]+" | ");
-            }
-            System.out.println();
-        }
-        System.out.println("TABLERO MAQUINA");
-        mostrarTableroMaquina();
-
-    }
-
-    private void mostrarTableroMaquina(){
-        String[][] TableroDescubierto = tablero.getTableroJugador();
-        for (int i = 0; i < TableroDescubierto.length; i++){
-            for (int j = 0; j < TableroDescubierto[i].length; j++){
-                System.out.print(TableroDescubierto[i][j]+" | ");
             }
             System.out.println();
         }
